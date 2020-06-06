@@ -1,91 +1,95 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Tong Hui Kang's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Tong Hui Kang
+<br>
+Final Year Student <br>
+at Singapore Univerisity of Technology and Design <br>
+and Singapore Management University
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://github.com/tonghuikang/">Github</a>
+| <a href="https://www.linkedin.com/in/huikang-tong/">LinkedIn</a>
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`May 2017 - Aug 2021`
+__Singapore University of Technology and Design__ <br>
+Current GPA 4.88/5.00
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`May 2017 - Aug 2021`
+__Singapore Management University__<br>
+Current GPA 3.69/4.00
 
 
+## Work Experience
 
-## Awards
+`Jan 2020 - Present`
+Data Science Intern, __Teralytics__
 
-`2012`
-President, *Royal Society*, London, UK
+- Designed and evaluated metrics to determine to validate the accuracy for delivery
+- Technical domains: Python pandas matplotlib, Git, Unit tests
 
-Associate, *French Academy of Science*, Paris, France
+`Dec 2018 - Sep 2019`
+Backend Software Engineer Intern, __2359 Media__
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- Delivered an API for chatbot builders to provide logic to the chatbot without writing code
+- Technical domains: Nodejs, Express, Azure Functions
 
 
-## Occupation
+## Contests
 
-`1600`
-__Royal Mint__, London
+### Algorithms
 
-- Warden
-- Minted coins
+`2019 - Present`
+Leetcode – rating 2124, global ranking 1044th, over 75 contests 
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`Sep 2019`
+Credit Suisse CodeIT Suisse 2019 – Singapore 3rd Team 
+
+`Oct 2019`
+Facebook Hack 2019 – Coding Challenge Top Team, Overall 2nd Team
+
+### Data
+
+`Nov 2019`
+Temasek HyperHack Datathon 2019 – Winning Team out of 12 teams
+
+`Oct 2019`
+Bank of Singapore CodeBOSS 2019 – 3rd team
+
+`May 2019`
+Shopee National Data Science Challenge 2019 – LB 16th/250, Merit Team
 
 
+## Research
 
-<!-- ### Footer
+`Dec 2017 - Jul 2018`
+Fake News Chrome Extension
+- Constructed a Python API to detect registered falsehoods with subject-word-object triplets
 
-Last updated: May 2013 -->
+`Jan 2018 - Sep 2018`
+Live Piano Cover Transcription 
+- Generated a dataset of synthesized piano covers and its respective scores for training
+- Developed a machine learning model to transcribe piano covers within two octaves
 
 
+## Co-curricular activities
+
+`May 2017 to Present`
+SUTD Robotics Club, Committee Member, SAUVC participant
+
+- Facilitated Arduino workshops for more than 100 participants
+- Engineered hydrophones to locate pingers for SAUVC competition
+
+
+## Academic Projects
+
+`Aug 2017 to Dec 2017`
+Automatic Anti-Afterimage Glasses 
+
+- Prototyped eyeglasses that darken in response to incident headlights to prevent afterimages
+- Project is featured in the university open house and library exhibitions
