@@ -9,17 +9,18 @@ at Singapore Univerisity of Technology and Design <br>
 and Singapore Management University
 
 <div id="webaddress">
+<a href="https://tonghuikang.github.io/resume/">
+Resume</a> |
 <a href="https://www.linkedin.com/in/huikang-tong/">
-LinkedIn</a>
+LinkedIn</a> |
 <a href="https://github.com/tonghuikang/">
-Github</a>
+Github</a> |
+<a href="https://www.kaggle.com/huikang">
+Kaggle</a> |
 <a href="https://www.linkedin.com/in/huikang-tong/">
 Leetcode</a>
-<a href="https://www.kaggle.com/huikang">
-Kaggle</a>
-<a href="https://codeforces.com/profile/huikang">
-Codeforces</a>
 </div>
+
 
 
 ## Education
@@ -73,7 +74,7 @@ Backend Software Engineer Intern
 
 `Nov 2019`
 **Temasek** HyperHack Datathon 2019 – Winning Team out of 12 teams
-- Analysed syntheised personal data in a secure environment
+- Analysed synthesised personal data in a secure environment
 - Pitched the value of data collaboration to a panel of judges
 
 `Oct 2019`
@@ -98,7 +99,7 @@ Backend Software Engineer Intern
 **3.007 Introduction to Design**<br>
 Automatic Anti-Afterimage Glasses 
 - Prototyped eyeglasses that darken in response to incident headlights to prevent afterimages
-- Conducted comprehensive user tests in multiple live improvments
+- Conducted comprehensive user tests in multiple live environments
 - Project is featured in the university open house and library exhibitions
 
 `Aug 2019 - Dec 2019`
@@ -106,13 +107,14 @@ Automatic Anti-Afterimage Glasses
 Population Density Prediction for Teralytics
 - Implemented algorithms to predict population density distribution 10 mins in the future
 - Improved the mean squared error by 50% from the baseline
-- Presented the methods and results to the rest of client's data science team
+- Presented the methods and results to the rest of the client's data science team
 
 `Aug 2019 - Dec 2019`
 **40.015 Simulation Modelling and Analysis**<br>
 Housing Prices Simulation
+
 - Simulated housing prices with individual agents and houses on a grid
-- Reproduced some characterisitics of the housing market such as inflation and homelessness
+- Reproduced some characteristics of the housing market such as inflation and homelessness
 - Project video is featured in the end-of-term showcase
 
 `Aug 2019 - Dec 2019`
@@ -144,17 +146,6 @@ Gender difference in professional profile writing
 - Conducted surveys and interviews on professional profile writing preferences
 - Produced and shared the video with the class, earned distinction for the course
 
-## Research Projects
-
-`Dec 2017 - Jul 2018`
-**Fake News Chrome Extension**
-- Constructed a Python API to detect registered falsehoods with subject-word-object triplets
-
-`Jan 2018 - Sep 2018`
-**Live Piano Cover Transcription** 
-- Generated a dataset of synthesized piano covers and its respective scores for training
-- Developed a machine learning model to transcribe piano covers within two octaves
-
 ## Co-curricular activities
 
 `May 2017 - Present`
@@ -163,3 +154,16 @@ Committee Member, SAUVC participant
 
 - Facilitated Arduino workshops for more than 100 participants
 - Engineered hydrophones to locate pingers for SAUVC competition
+
+## Research Projects
+
+`Dec 2017 - Jul 2018`
+**Fake News Chrome Extension**
+
+- Constructed a Python API to detect registered falsehoods with subject-word-object triplets
+
+`Jan 2018 - Sep 2018`
+**Live Piano Cover Transcription** 
+
+- Generated a dataset of synthesized piano covers and its respective scores for training
+- Developed a machine learning model to transcribe piano covers within two octaves
