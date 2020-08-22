@@ -15,18 +15,20 @@ Resume</a> |
 LinkedIn</a> |
 <a href="https://github.com/tonghuikang/">
 Github</a> |
-<a href="https://www.kaggle.com/huikang">
+<a href="https://www.kaggle.com/huikang/">
 Kaggle</a> |
-<a href="https://www.linkedin.com/in/huikang-tong/">
-Leetcode</a>
+<a href="https://leetcode.com/tonghuikang/">
+Leetcode</a> |
+<a href="https://codeforces.com/profile/huikang/">
+Codeforces</a>
 </div>
-
 
 
 ## Education
 
 `May 2017 - Aug 2021`
-**Singapore University of Technology and Design** <br>
+**Singapore University of Technology and Design**<br>
+
 - Bachelors of Engineering with Honours
 - Current GPA > 4.50/5.00
 
@@ -41,24 +43,29 @@ Leetcode</a>
 `Jan 2020 - Present`
 **Teralytics**<br>
 Data Science Intern
-- Designed and evaluated metrics to determine to validate the accuracy for delivery
+- Designed and evaluated metrics to determine the accuracy of proposed methods
 - Improved performance and optimized custom-built models by refactoring Python codebase
-- Technical domains: python pandas matplotlib, git, unit tests
+- Authored quality scripts, pull requests and documentation for deployment
+- Technical domains: python pandas matplotlib, git, unit tests, bash
 
 `Dec 2018 - Sep 2019`
 **2359 Media**<br>
 Backend Software Engineer Intern
+
 - Delivered an API for chatbot builders to provide logic to the chatbot without writing code
 - Developed a file conversion tool to visualise the chatbot content in a spreadsheet
-- Technical domains: nodejs, express, Azure Functions
+- Technical domains: nodejs Express, Azure Functions, python
 
 
 ## Contests
 
 ### Algorithms
 
+`Dec 2019 - Present`
+**Codeforces** - rating 1700+, top 12000, over 23 contests
+
 `Dec 2018 - Present`
-**Leetcode** – rating 2124, global ranking 1044th, over 75 weekly contests
+**Leetcode** – rating 2100+, top 1000, over 88 contests
 
 `Sep 2019`
 **Credit Suisse** CodeIT Suisse 2019 – Singapore 3rd Team 
@@ -69,11 +76,13 @@ Backend Software Engineer Intern
 ### Data
 
 `Jun 2020`
-**Shopee** Code League - Ongoing
-- 2-month long contest with 8 challenges, ongoing
+**Shopee** Code League
+- Top 70 among 400+ groups for each data science and data analytics components
+- Awared 5 Kaggle Bronze medals from notebooks shared with the community
 
 `Nov 2019`
 **Temasek** HyperHack Datathon 2019 – Winning Team out of 12 teams
+
 - Analysed synthesised personal data in a secure environment
 - Pitched the value of data collaboration to a panel of judges
 
@@ -90,7 +99,7 @@ Backend Software Engineer Intern
 `Mar 2019`
 **Shopee** National Data Science Challenge 2019 – LB 16th/250, Merit Team
 - Tasked to determine the category of a product given its image and title
-- Developed and shared a baseline NLP model with other participants
+- Developed and shared a baseline NLP model adpoted by 200+ other participants
 
 <div style="page-break-after: always;"></div>
 ## Academic Projects
