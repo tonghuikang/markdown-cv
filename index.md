@@ -17,11 +17,10 @@ LinkedIn</a> |
 Github</a> |
 <a href="https://www.kaggle.com/huikang/">
 Kaggle</a> |
-<a href="https://leetcode.com/tonghuikang/">
-Leetcode</a> |
 <a href="https://codeforces.com/profile/huikang/">
 Codeforces</a>
 </div>
+Citizen of Singapore
 
 
 ## Education
