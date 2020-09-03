@@ -9,6 +9,7 @@ at Singapore Univerisity of Technology and Design <br>
 and Singapore Management University
 
 <div id="webaddress">
+<a style="color:black">Singapore Citizen | </a> 
 <a href="https://tonghuikang.github.io/resume/">
 Resume</a> |
 <a href="https://www.linkedin.com/in/huikang-tong/">
@@ -20,14 +21,13 @@ Kaggle</a> |
 <a href="https://codeforces.com/profile/huikang/">
 Codeforces</a>
 </div>
-Citizen of Singapore
+
 
 
 ## Education
 
 `May 2017 - Aug 2021`
 **Singapore University of Technology and Design**<br>
-
 - Bachelors of Engineering with Honours
 - Current GPA > 4.50/5.00
 
@@ -50,7 +50,6 @@ Data Science Intern
 `Dec 2018 - Sep 2019`
 **2359 Media**<br>
 Backend Software Engineer Intern
-
 - Delivered an API for chatbot builders to provide logic to the chatbot without writing code
 - Developed a file conversion tool to visualise the chatbot content in a spreadsheet
 - Technical domains: nodejs Express, Azure Functions, python
@@ -61,10 +60,10 @@ Backend Software Engineer Intern
 ### Algorithms
 
 `Dec 2019 - Present`
-**Codeforces** - rating 1700+, top 12000, over 23 contests
+**Codeforces** - rating 1800+, top 10000, over 25 contests
 
 `Dec 2018 - Present`
-**Leetcode** – rating 2100+, top 1000, over 88 contests
+**Leetcode** – rating 2100+, top 1000, over 91 contests
 
 `Sep 2019`
 **Credit Suisse** CodeIT Suisse 2019 – Singapore 3rd Team 
@@ -77,11 +76,10 @@ Backend Software Engineer Intern
 `Jun 2020`
 **Shopee** Code League
 - Top 70 among 400+ groups for each data science and data analytics components
-- Awared 5 Kaggle Bronze medals from notebooks shared with the community
+- Awarded 5 Kaggle Bronze medals from notebooks shared with the community
 
 `Nov 2019`
 **Temasek** HyperHack Datathon 2019 – Winning Team out of 12 teams
-
 - Analysed synthesised personal data in a secure environment
 - Pitched the value of data collaboration to a panel of judges
 
@@ -98,7 +96,7 @@ Backend Software Engineer Intern
 `Mar 2019`
 **Shopee** National Data Science Challenge 2019 – LB 16th/250, Merit Team
 - Tasked to determine the category of a product given its image and title
-- Developed and shared a baseline NLP model adpoted by 200+ other participants
+- Developed and shared a baseline NLP model adopted by 200+ other participants
 
 <div style="page-break-after: always;"></div>
 ## Academic Projects
