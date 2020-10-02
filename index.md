@@ -29,12 +29,12 @@ Codeforces</a>
 `May 2017 - Aug 2021`
 **Singapore University of Technology and Design**<br>
 - Bachelors of Engineering with Honours
-- Current GPA > 4.50/5.00
+- Current GPA 4.79/5.00
 
 `May 2017 - Aug 2021`
 **Singapore Management University**<br>
 - Bachelor of Business Management
-- Current GPA > 3.50/4.00
+- Current GPA 3.65/4.00
 
 
 ## Work Experience
@@ -42,14 +42,17 @@ Codeforces</a>
 `Jan 2020 - Present`
 **Teralytics**<br>
 Data Science Intern
+
 - Designed and evaluated metrics to determine the accuracy of proposed methods
 - Improved performance and optimized custom-built models by refactoring Python codebase
-- Authored quality scripts, pull requests and documentation for deployment
-- Technical domains: python pandas matplotlib, git, unit tests, bash
+- Automated and parallelised routine calculation pipelines with PySpark
+- Authored quality scripts, documentation and pull requests
+- Technical domains: python pandas matplotlib, pyspark, git, unit tests, bash
 
 `Dec 2018 - Sep 2019`
 **2359 Media**<br>
 Backend Software Engineer Intern
+
 - Delivered an API for chatbot builders to provide logic to the chatbot without writing code
 - Developed a file conversion tool to visualise the chatbot content in a spreadsheet
 - Technical domains: nodejs Express, Azure Functions, python
@@ -60,10 +63,7 @@ Backend Software Engineer Intern
 ### Algorithms
 
 `Dec 2019 - Present`
-**Codeforces** - rating 1800+, top 10000, over 25 contests
-
-`Dec 2018 - Present`
-**Leetcode** – rating 2100+, top 1000, over 91 contests
+**Codeforces** - rating 1800+, top 10000, over 30 contests
 
 `Sep 2019`
 **Credit Suisse** CodeIT Suisse 2019 – Singapore 3rd Team 
@@ -71,7 +71,7 @@ Backend Software Engineer Intern
 `Oct 2019`
 **Facebook** Hack 2019 – Coding Challenge Top Team, Overall 2nd Team
 
-### Data
+### Data Science
 
 `Jun 2020`
 **Shopee** Code League
