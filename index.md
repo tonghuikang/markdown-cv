@@ -12,7 +12,7 @@ extra_javascript: script.js
 
 <!-- End Google Tag Manager (noscript) -->
 
-<meta name="viewport" content="width=device-width, initial-scale=0.5">
+<meta name="viewport" content="width=device-width, initial-scale=0.1">
 
 # Tong Hui Kang
 <br>
@@ -21,6 +21,7 @@ at Singapore Univerisity of Technology and Design <br>
 and Singapore Management University
 
 <div id="webaddress">
+<meta name="viewport" content="width=device-width, initial-scale=0.1">
 <a style="color:black">Singapore Citizen | </a> 
 <a href="https://tonghuikang.github.io/resume/"
 target="_blank">
