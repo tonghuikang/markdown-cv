@@ -1,20 +1,7 @@
 ---
 layout: cv
-title: Tong Hui Kang's Resume
-google_analytics: ['GTM-TCPGP97', 'resume.huikang.tech']
+title: Tong Hui Kang
 ---
-
-<meta name="viewport" content="width=device-width, initial-scale=0.1">
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-BVDJW5DMB3">
-</script>
-
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-BVDJW5DMB3');
-</script>
-
 
 # Tong Hui Kang
 <br>
