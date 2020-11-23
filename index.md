@@ -12,7 +12,7 @@ extra_javascript: script.js
 
 <!-- End Google Tag Manager (noscript) -->
 
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=0.5">
 
 # Tong Hui Kang
 <br>
