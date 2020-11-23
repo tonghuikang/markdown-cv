@@ -173,3 +173,14 @@ Committee Member, SAUVC participant
 
 - Generated a dataset of synthesized piano covers and its respective scores for training
 - Developed a machine learning model to transcribe piano covers within two octaves
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BVDJW5DMB3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-BVDJW5DMB3');
+</script>
