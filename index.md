@@ -1,16 +1,8 @@
 ---
 layout: cv
 title: Tong Hui Kang's Resume
-extra_javascript: script.js
+google_analytics: ['GTM-TCPGP97', 'resume.huikang.tech']
 ---
-<!-- Google Tag Manager (noscript) -->
-
-<noscript>
-  <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TCPGP97" height="0" width="0" style="display:none;visibility:hidden">
-  </iframe>
-</noscript>
-
-<!-- End Google Tag Manager (noscript) -->
 
 <meta name="viewport" content="width=device-width, initial-scale=0.1">
 
@@ -193,12 +185,3 @@ Committee Member, SAUVC participant
 - Developed a machine learning model to transcribe piano covers within two octaves
 
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-BVDJW5DMB3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-BVDJW5DMB3');
-</script>
