@@ -21,15 +21,20 @@ and Singapore Management University
 
 <div id="webaddress">
 <a style="color:black">Singapore Citizen | </a> 
-<a href="https://tonghuikang.github.io/resume/">
+<a href="https://tonghuikang.github.io/resume/"
+target="_blank">
 Resume</a> |
-<a href="https://www.linkedin.com/in/huikang-tong/">
+<a href="https://www.linkedin.com/in/huikang-tong/"
+target="_blank">
 LinkedIn</a> |
-<a href="https://github.com/tonghuikang/">
+<a href="https://github.com/tonghuikang/"
+target="_blank">
 Github</a> |
-<a href="https://www.kaggle.com/huikang/">
+<a href="https://www.kaggle.com/huikang/"
+target="_blank">
 Kaggle</a> |
-<a href="https://codeforces.com/profile/huikang/">
+<a href="https://codeforces.com/profile/huikang/"
+target="_blank">
 Codeforces</a>
 </div>
 
