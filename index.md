@@ -51,7 +51,7 @@ Codeforces</a>
 
 
 **Teralytics**
-`Jan 2020 - Present`<br>
+`Jan 2020 - Nov 2020`<br>
 Data Science Intern
 
 - Designed and evaluated metrics to determine the accuracy of proposed methods
