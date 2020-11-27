@@ -6,7 +6,7 @@ title: Tong Hui Kang
 # Tong Hui Kang
 <br>
 Final Year Student <br>
-at Singapore Univerisity of Technology and Design <br>
+at Singapore University of Technology and Design <br>
 and Singapore Management University
 
 <div id="webaddress">
@@ -32,19 +32,21 @@ onclick="getOutboundLink('Codeforces'); return true;"
 target="_blank">
 Codeforces</a>
 </div>
-
 ## Education
 
 **Singapore University of Technology and Design**
 `May 2017 - Aug 2021`
-- Bachelors of Engineering with Honours
-- Current GPA > 4/5
 
+- Bachelors of Engineering with Honours
+- Current CGPA <a id="sutd-gpa">> 4.00/5.00</a>
 
 **Singapore Management University**
 `May 2017 - Aug 2021`
+
 - Bachelor of Business Management
-- Current GPA > 3/4
+- Current CGPA <a id="smu-gpa">> 3.00/4.00</a>
+
+
 
 
 ## Work Experience
@@ -171,7 +173,7 @@ HealthOrWealth - a card game to teach policymaking
 **02.217 Gender Sexuality and Society**
 `Feb 2020 - Apr 2020`<br>
 Gender difference in professional profile writing
-- Analyse metrics and data of LinkedIn profiles of students of the same admit year
+- Analysed metrics and data of LinkedIn profiles of students of the same admit year
 - Conducted surveys and interviews on professional profile writing preferences
 - Produced and shared the video with the class, earned distinction for the course
 
