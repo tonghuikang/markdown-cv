@@ -13,23 +13,23 @@ and Singapore Management University
 <meta name="viewport" content="width=device-width, initial-scale=0.1">
 <a style="color:black">Singapore Citizen | </a> 
 <a href="https://resume.huikang.tech"
-onclick="getOutboundLink('https://resume.huikang.tech'); return false;"
+onclick="getOutboundLink('Resume'); return true;"
 target="_blank">
 Resume</a> |
 <a href="https://www.linkedin.com/in/huikang-tong/"
-onclick="getOutboundLink('https://www.linkedin.com/in/huikang-tong/'); return false;"
+onclick="getOutboundLink('LinkedIn'); return true;"
 target="_blank">
 LinkedIn</a> |
 <a href="https://github.com/tonghuikang/"
-onclick="getOutboundLink('https://github.com/tonghuikang/'); return false;"
+onclick="getOutboundLink('Github'); return true;"
 target="_blank">
 Github</a> |
 <a href="https://www.kaggle.com/huikang/"
-onclick="getOutboundLink('https://www.kaggle.com/huikang/'); return false;"
+onclick="getOutboundLink('Kaggle'); return true;"
 target="_blank">
 Kaggle</a> |
 <a href="https://codeforces.com/profile/huikang/"
-onclick="getOutboundLink('https://codeforces.com/profile/huikang/'); return false;"
+onclick="getOutboundLink('Codeforces'); return true;"
 target="_blank">
 Codeforces</a>
 </div>
