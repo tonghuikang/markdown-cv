@@ -188,8 +188,19 @@ strong {
 }
 
 
+@media only screen and (max-width: 960px) {
+	h1,h2,h3,code,p,p code,#webaddress,ul {
+		display: block;
+		position: relative;
+		top: 0;
+		text-align: left;
+		left: 0%;
+		width: 100%;
+	}
 
-/*
-@media only screen and (max-width: 480px) {
-	make one column somehow...
-}*/
+	code+br {
+		margin: 0px 0;
+		content: "";
+		display: block;
+	}
+}
