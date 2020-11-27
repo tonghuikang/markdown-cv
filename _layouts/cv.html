@@ -31,8 +31,22 @@
 <body>
   <div id="main">
     <div id="content">
-    {{ content }}
+      {{ content }}
     </div>
   </div>
+  <script>
+    var apiUrl = 'https://codeforces.com/api/user.info?handles=huikang';
+    fetch(apiUrl).then(response => {
+      return response.json();
+    }).then(data => {
+      console.log("update")
+      let profile = data["result"][0]
+      document.getElementById("rating").text = profile["rating"];
+      document.getElementById("rank").text = profile["rank"];
+    }).catch(err => {
+      console.log(err)
+      // Do something for an error here
+    });
+  </script>
 </body>
 </html>

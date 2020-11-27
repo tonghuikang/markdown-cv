@@ -159,7 +159,7 @@ a {
 	text-decoration:none
 }
 
-a:hover {
+div > a:hover {
 	color:#39f
 }
 
@@ -167,7 +167,7 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 25%;
-	color: #ccc;
+	color: #bc412b;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 90%;
 }

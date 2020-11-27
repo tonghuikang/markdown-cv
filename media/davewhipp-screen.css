@@ -108,7 +108,7 @@ li {
 
 li ul {
 	position: relative;
-	left: 0;
+	left: 0%;
 	width: 100%;
 	margin-top: 0.25em;
 }
@@ -157,7 +157,7 @@ a {
 	/*text-decoration:none*/
 }
 
-a:hover {
+div > a:hover {
 	color:#39f
 }
 

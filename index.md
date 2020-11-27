@@ -10,7 +10,6 @@ at Singapore Univerisity of Technology and Design <br>
 and Singapore Management University
 
 <div id="webaddress">
-<meta name="viewport" content="width=device-width, initial-scale=0.1">
 <a style="color:black">Singapore Citizen | </a> 
 <a href="https://resume.huikang.tech"
 onclick="getOutboundLink('Resume'); return true;"
@@ -34,19 +33,17 @@ target="_blank">
 Codeforces</a>
 </div>
 
-
-
 ## Education
 
 `May 2017 - Aug 2021`
 **Singapore University of Technology and Design**<br>
 - Bachelors of Engineering with Honours
-- Current GPA 4.79/5.00
+- Current GPA > 4/5
 
 `May 2017 - Aug 2021`
 **Singapore Management University**<br>
 - Bachelor of Business Management
-- Current GPA 3.65/4.00
+- Current GPA > 3/4
 
 
 ## Work Experience
@@ -75,7 +72,7 @@ Backend Software Engineer Intern
 ### Algorithms
 
 `Dec 2019 - Present`
-**Codeforces** - rating 1800+, top 10000, over 30 contests
+**Codeforces** - rating <a id="rating">1800</a> <a id="rank">candidate master</a>, top 10000, over 40 contests
 
 `Sep 2019`
 **Credit Suisse** CodeIT Suisse 2019 – Singapore 3rd Team 
