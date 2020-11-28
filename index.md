@@ -87,9 +87,8 @@ Backend Software Engineer Intern
 
 ## Co-curricular activities
 
-
 **SUTD Robotics Club**
-`May 2017 - Present`<br>
+`May 2017 - March 2020`<br>
 Committee Member, SAUVC participant
 
 - Facilitated Arduino workshops for more than 100 participants
