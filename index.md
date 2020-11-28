@@ -60,11 +60,10 @@ technical roles starting on September 2021
 
 **Versafleet**
 `Dec 2020 - Jan 2021`<br>
-Software Engineer Intern
+Software Engineer Intern (Incoming)
 
 - Study and review literature on learning-based approach for vehicle routing problem
 - Model and implement machine learning methods
-
 
 
 **Teralytics**
@@ -75,7 +74,8 @@ Data Science Intern
 - Improved performance of custom-built models by refactoring Python codebase
 - Automated and parallelised routine calculation pipelines with PySpark
 - Authored quality scripts, documentation and pull requests, totalling 2000 LOC
-- Technical domains: python pandas matplotlib, pyspark, git, unit tests, bash
+- Technical domains: python pandas matplotlib pyspark, git, unit tests, bash
+
 
 **2359 Media**
 `Dec 2018 - Sep 2019`<br>
@@ -114,14 +114,14 @@ Committee Member, SAUVC participant
 
 ### Algorithms
 
-**Codeforces** – rating <a id="rating">1800</a> <a id="rank">candidate master</a>, top 10000, over 40 contests
-`Dec 2019 - Present`
+**Codeforces** – rating <a id="rating">1599</a> <strong><a href="https://codeforces.com/profile/huikang" id="rank">specialist</a></strong>, world ranking <a id="placing">15000</a>, over 40 contests
+`Present`
 
 **Credit Suisse** CodeIT Suisse 2019 – Singapore 3rd Team 
 `Sep 2019`
 
-**Facebook** Hack 2019 – Coding Challenge Top Team, Overall 2nd Team
-`Oct 2019`
+**Facebook** Hack 2020 – Coding Challenge Top Team, Overall 2nd Team
+`Oct 2020`
 
 
 ### Data Science
@@ -129,7 +129,7 @@ Committee Member, SAUVC participant
 **Shopee** Code League 2020
 `Jun 2020 - Aug 2020`
 
-- Top 70 among 400+ groups for each data science and data analytics components
+- Top 70 among 400+ groups for each data science and data analytics component
 - Awarded 5 Kaggle Bronze medals from notebooks shared with the community
 
 
@@ -159,12 +159,20 @@ Committee Member, SAUVC participant
 
 ## Academic Projects
 
-**3.007 Introduction to Design**
-`Aug 2017 - Dec 2017`<br>
-Automatic Anti-Afterimage Glasses 
-- Prototyped eyeglasses that darken in response to incident headlights to prevent afterimages
-- Conducted comprehensive user tests in multiple live environments
-- Project is featured in the university open house and library exhibitions
+**40.014 Engineering Systems Architecture**
+`Feb 2020 - Apr 2020`<br>
+HealthOrWealth - a card game to teach policymaking
+- Delivered a game to let players experience tradeoffs faced by policymakers in a pandemic
+- Prototyped an RShiny companion to assist the game
+- Explored and documented architectural decisions
+
+
+**40.012 Manufacturing and Service Operations**
+`Feb 2020 - Apr 2020`<br>
+Inventory Management for Pharmaforte
+- Modelled demand distribution from product data and employed (Q,r) inventory model
+- Project writeup is featured in a school biannual newsletter
+
 
 **40.011 Data and Business Analytics**
 `Aug 2019 - Dec 2019`<br>
@@ -182,16 +190,9 @@ Housing Prices Simulation
 - Project video is featured in the end-of-term showcase
 
 
-**40.012 Manufacturing and Service Operations**
-`Feb 2020 - Apr 2020`<br>
-Inventory Management for Pharmaforte
-- Modelled demand distribution from product data and employed (Q,r) inventory model
-- Project writeup is featured in a school biannual newsletter
-
-
-**40.014 Engineering Systems Architecture**
-`Feb 2020 - Apr 2020`<br>
-HealthOrWealth - a card game to teach policymaking
-- Delivered a game to let players experience tradeoffs faced by policymakers in a pandemic
-- Prototyped an RShiny companion to assist the game
-- Explored and documented architectural decisions
+**3.007 Introduction to Design**
+`Aug 2017 - Dec 2017`<br>
+Automatic Anti-Afterimage Glasses 
+- Prototyped eyeglasses that darken in response to incident headlights to prevent afterimages
+- Conducted comprehensive user tests in multiple live environments
+- Project is featured in the university open house and library exhibitions
