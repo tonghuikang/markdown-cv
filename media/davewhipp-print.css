@@ -130,7 +130,7 @@ h1 {
 h1+p {
 	/*subtitle*/
 	font-style: italic;
-	font-size: 110%;
+	font-size: 90%;
 }
 
 h2 {
@@ -163,13 +163,16 @@ div > a:hover {
 	color:#39f
 }
 
-#webaddress {
+#webaddress, #contacts {
 	margin-top: 1em;
 	position: relative;
 	left: 25%;
-	color: #bc412b;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 90%;
+}
+
+#webaddress {
+	color: #bc412b;
 }
 
 #webaddress a {

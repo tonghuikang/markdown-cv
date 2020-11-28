@@ -9,8 +9,10 @@ Final Year Student <br>
 at Singapore University of Technology and Design <br>
 and Singapore Management University
 
+<div id="contacts">
+<a id="personal-contacts">Singapore Citizen | hello (at) huikang.tech</a> 
+</div>
 <div id="webaddress">
-<a style="color:black">Singapore Citizen | </a> 
 <a href="https://resume.huikang.tech"
 onclick="getOutboundLink('Resume'); return true;"
 target="_blank">
@@ -32,12 +34,17 @@ onclick="getOutboundLink('Codeforces'); return true;"
 target="_blank">
 Codeforces</a>
 </div>
+### Interested in
+
+technical roles starting on September 2021
+
 ## Education
 
 **Singapore University of Technology and Design**
 `May 2017 - Aug 2021`
 
 - Bachelors of Engineering with Honours
+- Engineering Systems and Design with Information Systems Minor
 - Current CGPA <a id="sutd-gpa">> 4.00/5.00</a>
 
 **Singapore Management University**
@@ -51,15 +58,23 @@ Codeforces</a>
 
 ## Work Experience
 
+**Versafleet**
+`Dec 2020 - Jan 2021`<br>
+Software Engineer Intern
+
+- Study and review literature on learning-based approach for vehicle routing problem
+- Model and implement machine learning methods
+
+
 
 **Teralytics**
 `Jan 2020 - Nov 2020`<br>
 Data Science Intern
 
 - Designed and evaluated metrics to determine the accuracy of proposed methods
-- Improved performance and optimized custom-built models by refactoring Python codebase
+- Improved performance of custom-built models by refactoring Python codebase
 - Automated and parallelised routine calculation pipelines with PySpark
-- Authored quality scripts, documentation and pull requests
+- Authored quality scripts, documentation and pull requests, totalling 2000 LOC
 - Technical domains: python pandas matplotlib, pyspark, git, unit tests, bash
 
 **2359 Media**
@@ -70,7 +85,31 @@ Backend Software Engineer Intern
 - Developed a file conversion tool to visualise the chatbot content in a spreadsheet
 - Technical domains: nodejs Express, Azure Functions, python
 
+## Co-curricular activities
 
+
+**SUTD Robotics Club**
+`May 2017 - Present`<br>
+Committee Member, SAUVC participant
+
+- Facilitated Arduino workshops for more than 100 participants
+- Engineered hydrophones to locate pingers for SAUVC competition
+
+## Research Projects
+
+**Fake News Chrome Extension**
+`Dec 2017 - Jul 2018`
+
+- Constructed a Python API to detect registered falsehoods with subject-word-object triplets
+
+
+**Live Piano Cover Transcription** 
+`Jan 2018 - Sep 2018`
+- Generated a dataset of synthesized piano covers and its respective scores for training
+- Developed a machine learning model to transcribe piano covers within two octaves
+
+
+<div style="page-break-after: always;"></div>
 ## Contests
 
 ### Algorithms
@@ -87,9 +126,9 @@ Backend Software Engineer Intern
 
 ### Data Science
 
+**Shopee** Code League 2020
+`Jun 2020 - Aug 2020`
 
-**Shopee** Code League
-`Jun 2020`
 - Top 70 among 400+ groups for each data science and data analytics components
 - Awarded 5 Kaggle Bronze medals from notebooks shared with the community
 
@@ -117,7 +156,7 @@ Backend Software Engineer Intern
 - Tasked to determine the category of a product given its image and title
 - Developed and shared a baseline NLP model adopted by 200+ other participants
 
-<div style="page-break-after: always;"></div>
+
 ## Academic Projects
 
 **3.007 Introduction to Design**
@@ -127,38 +166,26 @@ Automatic Anti-Afterimage Glasses
 - Conducted comprehensive user tests in multiple live environments
 - Project is featured in the university open house and library exhibitions
 
-
 **40.011 Data and Business Analytics**
 `Aug 2019 - Dec 2019`<br>
 Population Density Prediction for Teralytics
+
 - Implemented algorithms to predict population density distribution 10 mins in the future
 - Improved the mean squared error by 50% from the baseline
-- Presented the methods and results to the rest of the client's data science team
 
 
 **40.015 Simulation Modelling and Analysis**
 `Aug 2019 - Dec 2019`<br>
 Housing Prices Simulation
-
 - Simulated housing prices with individual agents and houses on a grid
 - Reproduced some characteristics of the housing market such as inflation and homelessness
 - Project video is featured in the end-of-term showcase
-
-
-**30.111 Entrepreneurship**
-`Aug 2019 - Dec 2019`<br>
-Belowvol - your private sound zone
-- Developed pretotypes to capture user experience
-- Successfully launched project on Kickstarter
-- Presented the startup in front of a panel of venture capitalists
 
 
 **40.012 Manufacturing and Service Operations**
 `Feb 2020 - Apr 2020`<br>
 Inventory Management for Pharmaforte
 - Modelled demand distribution from product data and employed (Q,r) inventory model
-- Reduced modelled costs by 10%-30% while maintaining acceptable service rate
-- Developed a dashboard to show key visualisations and performance metrics
 - Project writeup is featured in a school biannual newsletter
 
 
@@ -168,36 +195,3 @@ HealthOrWealth - a card game to teach policymaking
 - Delivered a game to let players experience tradeoffs faced by policymakers in a pandemic
 - Prototyped an RShiny companion to assist the game
 - Explored and documented architectural decisions
-
-
-**02.217 Gender Sexuality and Society**
-`Feb 2020 - Apr 2020`<br>
-Gender difference in professional profile writing
-- Analysed metrics and data of LinkedIn profiles of students of the same admit year
-- Conducted surveys and interviews on professional profile writing preferences
-- Produced and shared the video with the class, earned distinction for the course
-
-## Co-curricular activities
-
-
-**SUTD Robotics Club**
-`May 2017 - Present`<br>
-Committee Member, SAUVC participant
-
-- Facilitated Arduino workshops for more than 100 participants
-- Engineered hydrophones to locate pingers for SAUVC competition
-
-## Research Projects
-
-
-**Fake News Chrome Extension**
-`Dec 2017 - Jul 2018`
-- Constructed a Python API to detect registered falsehoods with subject-word-object triplets
-
-
-**Live Piano Cover Transcription** 
-`Jan 2018 - Sep 2018`
-- Generated a dataset of synthesized piano covers and its respective scores for training
-- Developed a machine learning model to transcribe piano covers within two octaves
-
-
