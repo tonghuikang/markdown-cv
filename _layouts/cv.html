@@ -45,7 +45,7 @@
   <script>
     function interpolate(low_x, high_x, low_y, high_y, given_x){
       console.log(low_x, high_x, low_y, high_y, given_x)
-      return low_y + (given_x-low_x)/(high_x-low_x) * (high_y-low_y)
+      return Math.floor(low_y + (given_x-low_x)/(high_x-low_x) * (high_y-low_y))
     }
 
     function rating_to_world_rank_map(rating){
