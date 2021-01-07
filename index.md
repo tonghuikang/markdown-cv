@@ -60,7 +60,7 @@ technical roles starting on September 2021
 
 **Versafleet**
 `Dec 2020 - Jan 2021`<br>
-Software Engineer Intern (Incoming)
+Software Engineer Intern
 
 - Study and review literature on learning-based approach for vehicle routing problem
 - Model and implement machine learning methods
@@ -73,13 +73,12 @@ Data Science Intern
 - Designed and evaluated metrics to determine the accuracy of proposed methods
 - Improved performance of custom-built models by refactoring Python codebase
 - Automated and parallelised routine calculation pipelines with PySpark
-- Authored quality scripts, documentation and pull requests, totalling 2000 LOC
 - Technical domains: python pandas matplotlib pyspark, git, unit tests, bash
 
 
 **2359 Media**
 `Dec 2018 - Sep 2019`<br>
-Backend Software Engineer Intern
+ Software Engineer Intern
 
 - Delivered an API for chatbot builders to provide logic to the chatbot without writing code
 - Developed a file conversion tool to visualise the chatbot content in a spreadsheet
@@ -113,14 +112,14 @@ Committee Member, SAUVC participant
 
 ### Algorithms
 
-**Codeforces** – rating <a id="rating">1599</a> <strong><a href="https://codeforces.com/profile/huikang" id="rank">specialist</a></strong>, world ranking <a id="placing">15000</a>, over 40 contests
+**Codeforces** – rating <a id="rating">1599</a> <strong><a href="https://codeforces.com/profile/huikang" id="rank">specialist</a></strong>, world ranking <a id="placing">15000</a>, over 50 contests
 `Present`
-
-**Credit Suisse** CodeIT Suisse 2019 – Singapore 3rd Team 
-`Sep 2019`
 
 **Facebook** Hack 2020 – Coding Challenge Top Team, Overall 2nd Team
 `Oct 2020`
+
+**Credit Suisse** CodeIT Suisse 2019 – Singapore 3rd Team
+`Sep 2019`
 
 
 ### Data Science
