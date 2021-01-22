@@ -22,6 +22,7 @@ time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
+	word-wrap: break-word;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
@@ -108,7 +109,7 @@ li {
 
 li ul {
 	position: relative;
-	left: 0;
+	left: 0%;
 	width: 100%;
 	margin-top: 0.25em;
 }
@@ -130,7 +131,7 @@ h1 {
 h1+p {
 	/*subtitle*/
 	font-style: italic;
-	font-size: 110%;
+	font-size: 90%;
 }
 
 h2 {
@@ -154,24 +155,24 @@ h3 {
 
 a {
 	color: inherit;
-	/*text-decoration:none*/
+	text-decoration:none
 }
 
-a:hover {
-	color:#39f
-}
-
-#webaddress {
+#webaddress, #contacts {
 	margin-top: 1em;
 	position: relative;
 	left: 25%;
-	color: #bc412b;
 	font-family: Monaco,Menlo,monospace,sans-serif;
-	font-size: 100%;
+	font-size: 90%;
 }
 
 #webaddress a {
+	color: #bc412b;	
 	text-decoration: none;
+}
+
+#webaddress a:hover {
+	color:#39f;
 }
 
 em {
@@ -188,8 +189,19 @@ strong {
 }
 
 
+@media only screen and (max-width: 960px) {
+	h1,h2,h3,code,p,p code,#webaddress,ul {
+		display: block;
+		position: relative;
+		top: 0;
+		text-align: left;
+		left: 0%;
+		width: 100%;
+	}
 
-/*
-@media only screen and (max-width: 480px) {
-	make one column somehow...
-}*/
+	code+br {
+		margin: 0px 0;
+		content: "";
+		display: block;
+	}
+}

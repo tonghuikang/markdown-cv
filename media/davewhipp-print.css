@@ -130,7 +130,7 @@ h1 {
 h1+p {
 	/*subtitle*/
 	font-style: italic;
-	font-size: 110%;
+	font-size: 90%;
 }
 
 h2 {
@@ -156,20 +156,23 @@ h3 {
 
 a {
 	color: inherit;
-	text-decoration:none
+	text-decoration: none
 }
 
-a:hover {
+div > a:hover {
 	color:#39f
 }
 
-#webaddress {
+#webaddress, #contacts {
 	margin-top: 1em;
 	position: relative;
 	left: 25%;
-	color: #ccc;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 90%;
+}
+
+#webaddress {
+	color: #bc412b;
 }
 
 #webaddress a {
