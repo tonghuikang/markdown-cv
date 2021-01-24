@@ -44,7 +44,7 @@ technical roles starting on September 2021
 `May 2017 - Aug 2021`
 
 - Bachelors of Engineering with Honours
-- Engineering Systems and Design with Information Systems Minor
+- Engineering Systems and Design, Operations Research Track with Information Systems Minor
 - Current CGPA <a id="sutd-gpa">> 4.00/5.00</a>
 
 **Singapore Management University**
@@ -54,24 +54,21 @@ technical roles starting on September 2021
 - Current CGPA <a id="smu-gpa">> 3.00/4.00</a>
 
 
-
-
 ## Work Experience
 
 **Versafleet**
 `Dec 2020 - Jan 2021`<br>
-Software Engineer Intern
+Data Science Intern
 
-- Study and review literature on learning-based approach for vehicle routing problem
-- Model and implement machine learning methods
-
+- Explored vehicle and driver features to improve the estimate of the time of arrival
+- Reviewed literature and prototyped a learning-based approach for vehicle routing problem
+- Technical domains: python or-tools pandas matplotlib, git, PostgreSQL
 
 **Teralytics**
 `Jan 2020 - Nov 2020`<br>
 Data Science Intern
 
-- Designed and evaluated metrics to determine the accuracy of proposed methods
-- Improved performance of custom-built models by refactoring Python codebase
+- Designed and implemented metrics to illustrate the accuracy of proposed methods
 - Automated and parallelised routine calculation pipelines with PySpark
 - Technical domains: python pandas matplotlib pyspark, git, unit tests, bash
 
@@ -84,6 +81,22 @@ Data Science Intern
 - Developed a file conversion tool to visualise the chatbot content in a spreadsheet
 - Technical domains: nodejs Express, Azure Functions, python
 
+
+## Research Projects
+
+**Live Piano Cover Transcription**
+`Jan 2018 - Sep 2018`
+
+- Generated a dataset of synthesized piano covers and its respective scores for training
+- Developed a machine learning model to transcribe piano covers within two octaves
+
+
+**Fake News Chrome Extension**
+`Oct 2017 - Jul 2018`
+
+- Constructed a Python API to detect registered falsehoods with subject-word-object triplets
+
+
 ## Co-curricular activities
 
 **SUTD Robotics Club**
@@ -93,18 +106,6 @@ Committee Member, SAUVC participant
 - Facilitated Arduino workshops for more than 100 participants
 - Engineered hydrophones to locate pingers for SAUVC competition
 
-## Research Projects
-
-**Fake News Chrome Extension**
-`Dec 2017 - Jul 2018`
-
-- Constructed a Python API to detect registered falsehoods with subject-word-object triplets
-
-
-**Live Piano Cover Transcription** 
-`Jan 2018 - Sep 2018`
-- Generated a dataset of synthesized piano covers and its respective scores for training
-- Developed a machine learning model to transcribe piano covers within two octaves
 
 
 <div style="page-break-after: always;"></div>
@@ -162,7 +163,6 @@ Committee Member, SAUVC participant
 HealthOrWealth - a card game to teach policymaking
 - Delivered a game to let players experience tradeoffs faced by policymakers in a pandemic
 - Prototyped an RShiny companion to assist the game
-- Explored and documented architectural decisions
 
 
 **40.012 Manufacturing and Service Operations**
