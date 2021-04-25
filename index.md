@@ -36,7 +36,7 @@ Codeforces</a>
 </div>
 ### Interested in
 
-technical roles starting on September 2021
+building information-sharing communities and competitive programming
 
 ## Education
 
