@@ -36,7 +36,7 @@ Codeforces</a>
 </div>
 ### Interested in
 
-building information-sharing communities and competitive programming
+empowering information-sharing communities, and competitive programming
 
 ## Education
 
