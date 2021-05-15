@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Tong Hui Kang
+title: Resume
 ---
 
 # Tong Hui Kang
