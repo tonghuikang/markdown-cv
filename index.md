@@ -69,7 +69,7 @@ Data Science Intern
 Data Science Intern
 
 - Designed and implemented metrics to illustrate the accuracy of proposed methods
-- Automated and parallelised routine calculation pipelines with PySpark
+- Optimized and parallelised routine calculation pipelines with PySpark
 - Technical domains: python pandas matplotlib pyspark, git, unit tests, bash
 
 
