@@ -13,7 +13,11 @@ and Singapore Management University
 <a id="personal-contacts">Singapore Citizen | hello (at) huikang.tech</a> 
 </div>
 <div id="webaddress">
-<a href="https://resume.huikang.dev?utm_source=resume"
+<a href="https://blog.huikang.dev?utm_source=resume"
+onclick="getOutboundLink('Resume'); return true;"
+target="_blank">
+Blog</a> |
+<a href="https://blog.huikang.dev/resume/?utm_source=resume"
 onclick="getOutboundLink('Resume'); return true;"
 target="_blank">
 Resume</a> |
