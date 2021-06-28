@@ -10,7 +10,7 @@ at Singapore University of Technology and Design <br>
 and Singapore Management University
 
 <div id="contacts">
-<a id="personal-contacts">Singapore Citizen | hello (at) huikang.tech</a> 
+<a id="personal-contacts">Singapore Citizen | hello (at) huikang.dev</a> 
 </div>
 <div id="webaddress">
 <a href="https://blog.huikang.dev?utm_source=resume"
